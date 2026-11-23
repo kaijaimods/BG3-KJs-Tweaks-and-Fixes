@@ -3,4 +3,5 @@
 	<content contentuid="h69a228a2g3139g4535g916fg1289243752da" version="2">Creature gains an extra reaction point.&#xA;When attacked, the creature can use a reaction to counterattack with Vengeful Strike, dealing [1] and [2].</content>
 	<content contentuid="hc04d0bf6g6803g4f6dg9908gcf18cf8b12e0" version="2">Obscured.</content>
 	<content contentuid="h93ab5d4ag9eaag4d38g961cg35f56836e10b" version="2">Player is Lightly or Heavily Obscured.</content>
+	<content contentuid="h1d4ccc9age6b1g4650ga57agc272940533be" version="1">Doubles the range of spells. Melee spells get a range of [3].&lt;br&gt;&lt;br&gt;Costs [1] Sorcery Point per spell.</content>
 </contentList>
