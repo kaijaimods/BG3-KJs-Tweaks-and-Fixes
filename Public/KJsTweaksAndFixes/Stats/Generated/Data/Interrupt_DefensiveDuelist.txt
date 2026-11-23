@@ -1,0 +1,4 @@
+new entry "Interrupt_DefensiveDuelist"
+using "Interrupt_DefensiveDuelist"
+type "InterruptData"
+data "Conditions" "IsAbleToReact(context.Observer) and HasInterruptedAttack() and Self(context.Target,context.Observer) and not AnyEntityIsItem() and IsMeleeAttack() and HasWeaponProperty(WeaponProperties.Finesse, GetActiveWeapon(context.Observer)) and IsProficientWith(context.Observer, GetActiveWeapon(context.Observer)) and IsInterruptPenaltyInteresting(context.Observer.ProficiencyBonus, context.Source)"
